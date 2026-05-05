@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marcus Osterhout | AI Implementation Consulting</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500&family=IBM+Plex+Mono:wght@400;500&family=Playfair+Display:wght@700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Top Border -->
+    <div class="top-border"></div>
+
+    <!-- Navigation -->
+    <nav class="nav">
+        <div class="nav-content">
+            <div class="nav-logo">MARCUS OSTERHOUT</div>
+            <div class="nav-tag">AI IMPLEMENTATION CONSULTING</div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="section-label">AI IMPLEMENTATION CONSULTING</div>
+            <h1 class="hero-headline">Your Phone Just Sent Another Customer to Your Competitor.</h1>
+            <p class="hero-subheadline">
+                Every unanswered call after 5 PM. Every lead that waited 4 hours for a reply. 
+                Every follow-up that never happened. We install the AI system that ends all three — 
+                in 30 days or you don't pay the second half.
+            </p>
+            <a href="#audit" class="cta-button primary">BOOK YOUR FREE AI OPPORTUNITY AUDIT ></a>
+            <div class="cta-sublabel">LIMITED TO 5 SPOTS PER MONTH</div>
+            
+            <div class="trust-bar">
+                <div class="trust-item"><span class="tick">✓</span> 30-Day Delivery</div>
+                <div class="trust-item"><span class="tick">✓</span> Go High Level Powered</div>
+                <div class="trust-item"><span class="tick">✓</span> 50% Risk Guarantee</div>
+                <div class="trust-item"><span class="tick">✓</span> Full Team Training Included</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Stats Bar -->
+    <section class="stats-bar">
+        <div class="container stats-grid">
+            <div class="stat-block">
+                <div class="stat-number">62%</div>
+                <div class="stat-label">OF CALLS GO UNANSWERED</div>
+            </div>
+            <div class="stat-block">
+                <div class="stat-number">21x</div>
+                <div class="stat-label">CONVERSION LIFT — 5-MIN RESPONSE</div>
+            </div>
+            <div class="stat-block">
+                <div class="stat-number">$1,200</div>
+                <div class="stat-label">AVERAGE MISSED CALL VALUE (TRADES)</div>
+            </div>
+            <div class="stat-block">
+                <div class="stat-number">30 DAYS</div>
+                <div class="stat-label">AVERAGE INSTALL TIME</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- The Problem Section -->
+    <section class="problem">
+        <div class="container">
+            <div class="section-label">THE PROBLEM</div>
+            <h2 class="section-headline">Here's What's Happening Right Now</h2>
+            <p class="body-text">
+                A homeowner's AC breaks at 6:45 PM Friday. They call three companies. 
+                The one that answers — or texts back within 5 minutes — gets the job. 
+                You know which one you are right now.
+            </p>
+            <p class="body-text">
+                It's not a staffing problem. It's a system problem. And the fix doesn't require hiring anyone.
+            </p>
+            
+            <div class="pain-points">
+                <div class="pain-point">
+                    <div class="pain-accent"></div>
+                    <p>Missed calls after hours = lost revenue, compounding daily</p>
+                </div>
+                <div class="pain-point">
+                    <div class="pain-accent"></div>
+                    <p>Slow lead response = competitors book while you're in the field</p>
+                </div>
+                <div class="pain-point">
+                    <div class="pain-accent"></div>
+                    <p>No follow-up system = leads bought with ad spend go cold in 48 hours</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- The Offer Section -->
+    <section class="offer">
+        <div class="container">
+            <div class="section-label">THE OFFER</div>
+            <h2 class="section-headline">Three Packages. Fixed Scope. Fixed Price. 30-Day Delivery.</h2>
+            
+            <div class="pricing-grid">
+                <!-- Tier 1 -->
+                <div class="pricing-card">
+                    <div class="tier-name">TIER 1 — AI FRONT DESK</div>
+                    <div class="tier-price">$3,500</div>
+                    <ul class="tier-features">
+                        <li>24/7 AI voice agent answers missed calls</li>
+                        <li>Missed-call text-back automation</li>
+                        <li>Web chat AI capturing and qualifying leads</li>
+                        <li>Auto-booking into your calendar</li>
+                        <li>2-week build + lifetime SOPs</li>
+                        <li>Optional $497/mo monitoring retainer</li>
+                    </ul>
+                </div>
+
+                <!-- Tier 2 (Most Popular) -->
+                <div class="pricing-card popular">
+                    <div class="popular-badge">MOST POPULAR</div>
+                    <div class="tier-name">TIER 2 — LEAD ENGINE REACTIVATION</div>
+                    <div class="tier-price">$5,500</div>
+                    <ul class="tier-features">
+                        <li><strong>Everything in Tier 1</strong></li>
+                        <li>AI-powered database reactivation campaign</li>
+                        <li>Google review request automation</li>
+                        <li>GHL pipeline dashboard + weekly performance email</li>
+                        <li>3-week build</li>
+                    </ul>
+                </div>
+
+                <!-- Tier 3 -->
+                <div class="pricing-card">
+                    <div class="tier-name">TIER 3 — OPERATIONS CO-PILOT</div>
+                    <div class="tier-price">$8,000</div>
+                    <ul class="tier-features">
+                        <li><strong>Everything in Tiers 1 & 2</strong></li>
+                        <li>Custom internal AI assistant for the team</li>
+                        <li>Documented runbooks + team training videos</li>
+                        <li>4-week build + 30-day post-launch support window</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="pricing-note">All packages billed 50% on signature, 50% on go-live.</div>
+        </div>
+    </section>
+
+    <!-- Free Audit CTA -->
+    <section class="audit-cta" id="audit">
+        <div class="container">
+            <div class="audit-card">
+                <div class="section-label">START HERE — NO COST</div>
+                <h2 class="section-headline">Free AI Opportunity Audit</h2>
+                <p class="body-text">
+                    45 minutes on Zoom. We walk your phone, website, and lead funnel. 
+                    You leave with a one-page map of exactly which AI installations would recover revenue — and what it's worth. 
+                    No pitch. No pressure. Just data.
+                </p>
+                <a href="https://calendly.com/marcus-osterhout/audit" class="cta-button primary">BOOK YOUR FREE AUDIT ></a>
+                <div class="audit-location">MARCUS OSTERHOUT | TUSTIN, CA</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Who This Is For -->
+    <section class="ideal-client">
+        <div class="container">
+            <div class="section-label">IDEAL CLIENT</div>
+            <h2 class="section-headline">We Work With Two Types of Businesses</h2>
+            
+            <div class="client-grid">
+                <div class="client-card">
+                    <h3 class="client-type">HVAC / PLUMBING / ELECTRICAL</h3>
+                    <p class="client-desc">
+                        Every missed after-hours call is $300-$1,200 in lost service revenue. 
+                        We install the system that answers, books, and follows up before your competitor even sees the missed call notification.
+                    </p>
+                </div>
+                <div class="client-card">
+                    <h3 class="client-type">MED SPAS / AESTHETICS</h3>
+                    <p class="client-desc">
+                        Cosmetic procedures are high-ticket. Lead speed wins the booking. 
+                        We install the follow-up system that converts your Meta ad spend into booked appointments — automatically.
+                    </p>
+                </div>
+            </div>
+            
+            <div class="disqualifiers">
+                <hr class="disqualifier-rule">
+                <p class="disqualifier-text">
+                    Revenue under $250K | Owners who won't delegate | Prospects who haggle the audit
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Guarantee Section -->
+    <section class="guarantee">
+        <div class="container">
+            <div class="section-label">RISK REVERSAL</div>
+            <h2 class="section-headline">50% On Signature. 50% On Go-Live.</h2>
+            <p class="body-text">
+                If the system isn't live and functioning in 30 days, you owe nothing on the second half. 
+                The risk is ours. The revenue recovery is yours.
+            </p>
+        </div>
+    </section>
+
+    <!-- Social Proof (Placeholder) -->
+    <section class="social-proof">
+        <div class="container">
+            <div class="section-label">RESULTS</div>
+            <h2 class="section-headline">What Happens in 30 Days</h2>
+            
+            <div class="proof-grid">
+                <div class="proof-card">
+                    <div class="proof-stat">PLACEHOLDER</div>
+                    <div class="proof-business">[Business Name]</div>
+                    <div class="proof-result">[Result Stat]</div>
+                </div>
+                <div class="proof-card">
+                    <div class="proof-stat">PLACEHOLDER</div>
+                    <div class="proof-business">[Business Name]</div>
+                    <div class="proof-result">[Result Stat]</div>
+                </div>
+                <div class="proof-card">
+                    <div class="proof-stat">PLACEHOLDER</div>
+                    <div class="proof-business">[Business Name]</div>
+                    <div class="proof-result">[Result Stat]</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Final CTA -->
+    <section class="final-cta">
+        <div class="container">
+            <h2 class="section-headline">Stop Losing Revenue to Voicemail.</h2>
+            <p class="body-text">
+                Every day without this system is another Friday evening sending leads to the competitor who answered. 
+                The audit is free. The decision is yours.
+            </p>
+            <a href="#audit" class="cta-button primary">BOOK YOUR FREE AI OPPORTUNITY AUDIT ></a>
+            <div class="final-tagline">REAL . RAW . RELEVANT . RESULTS</div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-border"></div>
+        <div class="container footer-content">
+            <div class="footer-left">Marcus Osterhout | AI Implementation Consulting</div>
+            <div class="footer-right">TUSTIN, CA | REAL . RAW . RELEVANT . RESULTS</div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
